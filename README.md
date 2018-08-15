@@ -1,2 +1,2 @@
 # KoreaRPS
-Korea RPS
+Korea R(Rock) P(Paper) S(Scissors)
